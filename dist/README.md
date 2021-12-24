@@ -1,4 +1,4 @@
-# read me
+# Read me
 
   ## Description 
   application that dynamically generates a professional README.md file
