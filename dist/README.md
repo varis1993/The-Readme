@@ -1,7 +1,7 @@
 # Read me
 
   ## Description 
-  application that dynamically generates a professional README.md file
+  Application that dynamically generates a professional README.md file
   
   ## Table of Contents
   
