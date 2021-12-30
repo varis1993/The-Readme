@@ -20,6 +20,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+## Walkthrough Video
 https://www.youtube.com/watch?v=u-0BPARn-Ms
 
 ## Table of Contents
